@@ -17,7 +17,7 @@
     ```javascript
     const nestedArray = [[1, 2], [3, 4, 5], [6, 7, 8, 9]];
     const flattenedArray = nestedArray.reduce(/* reducer */);
-    console.log(flattenedArray); // Output: [1, 2, 3, 4, 5, 6]
+    console.log(flattenedArray); // Output: [1, 2, 3, 4, 5, 6, 7, 8, 9]
     ```
 
 > **Note:** การ flatten หรือทำให้อาร์เรย์ "แบน" ก็คือ การแปลงอาร์เรย์หลายมิติ หรืออาร์เรย์ซ้อนอาร์เรย์ ให้กลายเป็นอาร์เรย์ 1 มิติ
