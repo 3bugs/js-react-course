@@ -2,7 +2,7 @@
 
 ### 1.1 ให้หาจำนวนพนักงานรวมของทุกบริษัทในอาร์เรย์ `companyList` แล้วเก็บผลลัพธ์ในตัวแปรชื่อ `totalEmployees`
 
-- **วิธีที่ 1 ใช้:** `for` loop
+- **วิธีที่ 1:** ใช้ `for` loop
 
     ```javascript
     let totalEmployees = 0;
